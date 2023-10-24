@@ -2,7 +2,6 @@
 
 This repository contains my solutions to various coding problems and challenges. Each problem is solved in a separate code file, and this README.md file serves as a guide to understand the repository structure and keep track of the problems solved.
 
-## Solved Problem list
 ### Two Sum [[LeetCode]](https://leetcode.com/problems/two-sum/)
 
 Given an array of integers nums and an integer target, find two numbers in the array that add up to the target value. You need to return the indices of these two numbers.
