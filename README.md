@@ -6,9 +6,9 @@ This repository contains my solutions to various coding problems and challenges.
 
 Below is a list of problems solved in this repository:
 
-[# Two Sum <!-- [LeetCode](https://leetcode.com/problems/two-sum/) -->
+#### Two Sum <!-- [LeetCode](https://leetcode.com/problems/two-sum/) -->
 
-## Problem Statement
+##### Problem Statement
 
 Given an array of integers nums and an integer target, find two numbers in the array that add up to the target value. You need to return the indices of these two numbers.
 
