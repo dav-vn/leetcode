@@ -9,6 +9,6 @@ It is guaranteed that each input will have exactly one solution, and you may not
 ### Solution 
 1. GO: https://github.com/dav-vn/leetcode/pull/1
 2. PHP: https://github.com/dav-vn/leetcode/pull/2
-3. JS: 
+3. JS: https://github.com/dav-vn/leetcode/pull/3
 
 
