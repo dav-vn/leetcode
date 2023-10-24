@@ -2,13 +2,9 @@
 
 This repository contains my solutions to various coding problems and challenges. Each problem is solved in a separate code file, and this README.md file serves as a guide to understand the repository structure and keep track of the problems solved.
 
-## Problems List
+## Two Sum <!-- [LeetCode](https://leetcode.com/problems/two-sum/) -->
 
-Below is a list of problems solved in this repository:
-
-#### Two Sum <!-- [LeetCode](https://leetcode.com/problems/two-sum/) -->
-
-##### Problem Statement
+### Problem Statement
 
 Given an array of integers nums and an integer target, find two numbers in the array that add up to the target value. You need to return the indices of these two numbers.
 
