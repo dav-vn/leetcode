@@ -8,7 +8,7 @@ Given an array of integers nums and an integer target, find two numbers in the a
 It is guaranteed that each input will have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
 ### Solution 
 1. GO: https://github.com/dav-vn/leetcode/pull/1
-2. PHP: 
-
+2. PHP: https://github.com/dav-vn/leetcode/pull/2
+3. JS: 
 
 
