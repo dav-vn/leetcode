@@ -6,7 +6,7 @@ This repository contains my solutions to various coding problems and challenges.
 ### Problem
 Given an array of integers nums and an integer target, find two numbers in the array that add up to the target value. You need to return the indices of these two numbers.
 It is guaranteed that each input will have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
-### Solution in different langs
+### Solution
 1. GO: https://github.com/dav-vn/leetcode/pull/1
 2. PHP: https://github.com/dav-vn/leetcode/pull/2
 3. JS: https://github.com/dav-vn/leetcode/pull/3
