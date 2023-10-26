@@ -11,4 +11,10 @@ It is guaranteed that each input will have exactly one solution, and you may not
 2. PHP: https://github.com/dav-vn/leetcode/pull/2
 3. JS: https://github.com/dav-vn/leetcode/pull/3
 
-
+## [Palindrome Number][https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/palindrome-number/description/)
+### Problem
+Given an integer x, return true if x is a palindrome, and false otherwise.
+### Solution
+1. GO: https://github.com/dav-vn/leetcode/pull/
+2. PHP: https://github.com/dav-vn/leetcode/pull/
+3. JS: https://github.com/dav-vn/leetcode/pull/
