@@ -15,6 +15,6 @@ It is guaranteed that each input will have exactly one solution, and you may not
 ### Problem
 Given an integer x, return true if x is a palindrome, and false otherwise.
 ### Solution
-1. GO: https://github.com/dav-vn/leetcode/pull/
+1. [GO](https://github.com/dav-vn/leetcode/blob/solutions/palindrome/Go/ispalindrome.go)
 2. PHP: https://github.com/dav-vn/leetcode/pull/
 3. JS: https://github.com/dav-vn/leetcode/pull/
