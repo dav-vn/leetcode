@@ -21,7 +21,7 @@ class PalindromeSolution
                 return false;
             }
 
-            while ($number !== 0) {
+            while ($number != 0) {
                 $reminder = $number % 10;
                 $reverse = $reverse * 10 + $reminder;
                 $number = floor($number / 10);
