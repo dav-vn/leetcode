@@ -18,3 +18,12 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 1. [GO](https://github.com/dav-vn/leetcode/blob/solutions/palindrome/Go/ispalindrome.go)
 2. [PHP](https://github.com/dav-vn/leetcode/blob/solutions/palindrome/PHP/PalindromeSolution.php)
 3. [JS](https://github.com/dav-vn/leetcode/blob/solutions/palindrome/JS/palindrome.js)
+
+## [Add Two Numbers](https://leetcode.com/problems/palindrome-number/description/)
+### Problem
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+### Solution
+1. [GO](https://github.com/dav-vn/leetcode/blob/solutions/two-numbers/Go/twoNumbers.go)
+2. [PHP](https://github.com/dav-vn/leetcode/blob/solutions/two-numbers/PHP/TwoNumberSolution.php)
+3. [JS](https://github.com/dav-vn/leetcode/blob/solutions/two-numbers/JS/addTwoNumbers.js)
