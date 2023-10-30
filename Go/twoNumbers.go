@@ -5,6 +5,8 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// Runtime 6 ms
+// Memory 4.36 MB
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	dummy := new(ListNode)
 	current := dummy
